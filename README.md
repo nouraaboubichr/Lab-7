@@ -10,21 +10,23 @@
 * La classe `Entreprise` stocke les employés dans un tableau dynamique qui peut être agrandi automatiquement lorsque celui-ci est rempli. Elle permet aussi d'afficher les informations de paie et de calculer le montant total des salaires.
 * Cet exercice montre l'utilisation du polymorphisme : une même méthode `calculerSalaire()` peut avoir un résultat différent selon la catégorie de l'employé.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 030815.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 030912.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 030922.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 030957.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 031006.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 031021.png" />
+
+
+
+
 
 # Exercice 2 - Représentation d'un système de fichiers
 
